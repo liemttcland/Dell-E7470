@@ -5,7 +5,9 @@ Specifications:
  
 
 Processor                      : Intel® Coreâ„¢ i5-6300U / i7-6600U Processor 
+
 Graphics Processor(GPU)        : Intel® Integrated HD Graphics 520
+
 Chipset                        : 6th Generation Intel® Core
 Storage                        : Toshiba NVMe 256GB 
 RAM                            : 8GB DDR4 SDRAM 2133 MHz; 2 slots supporting up to 16GB
